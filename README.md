@@ -11,9 +11,14 @@
 
 ### Power BI
 
-ETL
-Modelagem
-Dimensões
-DIM_NOTA
+- Fonte de dados: MICRODADOS_ENEM_2020.csv
+- Carregar dados
+- Exploração dos dados
+- Manipulação dos dados: Power Query
+  - Limpeza   
+- ETL
+- Modelagem
+- Dimensões
+  - DIM_NOTA
 
 
